@@ -1,0 +1,19 @@
+{
+    "name": "todolist",
+    "version": "1.0.0",
+    "description": "Aplicación para registrar una lista de tareas",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "typescript",
+        "todo",
+        "list",
+        "html",
+        "bitcubico",
+        "tutorial"
+    ],
+    "author": "Mauricio Montoya Medrano - @mcubico @bitcubico - www.bitcubico.com",
+    "license": "ISC"
+}
