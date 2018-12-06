@@ -15,5 +15,8 @@
         "tutorial"
     ],
     "author": "Mauricio Montoya Medrano - @mcubico @bitcubico - www.bitcubico.com",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.1.3"
+    }
 }
