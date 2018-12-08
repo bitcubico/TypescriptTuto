@@ -58,6 +58,6 @@
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
   "files": [ /* Archivos de referencia a todos los archivos typescript que vamos a compilar, el archivo app.ts tiene todas las referencias. */
-    ".app/app.ts"
+    "app/app.ts"
   ]
 }

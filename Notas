@@ -1,0 +1,2 @@
+1. Para compilar los archivos typescript automaticamente uso el comando (tsc) ubicado en el directorio de la aplicación
+2. Para poner a correr el server (npm start)
