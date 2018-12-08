@@ -24,7 +24,23 @@
         </div>
     </nav>
     <div class="container">
+        <h2>
+            Your tasks
+            <span id="yourTaskBadge" class="badge">0</span>
+        </h2>
+        <div>
+            <div class="form-group">
+                <label for="inputTask">Task to do</label>
+                <input type="text" name="" id="inputTask" class="form-control" placeholder="Enter a task" aria-describedby="helpId">
+                <small id="helpId" class="text-muted">Write your task</small>
+            </div>
 
+            <button type="button" id="addTask" class="btn btn-default">Add</button>
+            <button type="button" id="markAllAsDone" class="btn btn-success">Mark all as done</button>
+            <button type="button" id="removeAll" class="btn btn-danger">Remove all</button>
+        </div>
+        <br>
+        <ul class="list-group" id="taskList"></ul>
     </div>
 
     <!-- Optional JavaScript -->
