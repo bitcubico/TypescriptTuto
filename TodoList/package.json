@@ -17,6 +17,7 @@
     "author": "Mauricio Montoya Medrano - @mcubico @bitcubico - www.bitcubico.com",
     "license": "ISC",
     "dependencies": {
+        "@types/mustache": "^0.8.32",
         "bootstrap": "^4.1.3"
     },
     "devDependencies": {
